@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    display:flex   
+}
+#canvas{
+    background: url(img/bg.png);
+    background-color: black;
+}
+
+.controls{
+    text-align: center;
+    padding: 10%;
+}
+.controls #output{
+    font-size:1.5em
+}
