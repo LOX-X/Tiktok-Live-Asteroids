@@ -7,6 +7,7 @@ import { Players } from "./Players.js";
 import { winnerName } from "./app.js";
 import { winner } from "./app.js";
 
+let config;
 export function main(){
     startWebSocket()
     connectButton.addEventListener("click", onConnectEvent);
