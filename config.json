@@ -1,96 +1,6 @@
 {
   "gifts": [
     {
-      "name": "Pegasus",
-      "id": 9427,
-      "cost": 42999
-    },
-    {
-      "name": "Fire Phoenix",
-      "id": 9092,
-      "cost": 41999
-    },
-    {
-      "name": "Thunder Falcon",
-      "id": 8651,
-      "cost": 39999
-    },
-    {
-      "name": "TikTok Universe+",
-      "id": 7312,
-      "cost": 34999
-    },
-    {
-      "name": "Premium Shuttle",
-      "id": 7125,
-      "cost": 20000
-    },
-    {
-      "name": "Fly Love",
-      "id": 8248,
-      "cost": 19999
-    },
-    {
-      "name": "Happy Party",
-      "id": 8247,
-      "cost": 6999
-    },
-    {
-      "name": "Signature Jet",
-      "id": 7124,
-      "cost": 4888
-    },
-    {
-      "name": "Here We Go",
-      "id": 8245,
-      "cost": 1799
-    },
-    {
-      "name": "Shiny air balloon",
-      "id": 7123,
-      "cost": 1000
-    },
-    {
-      "name": "Trending Figure",
-      "id": 9138,
-      "cost": 999
-    },
-    {
-      "name": "Gem Gun",
-      "id": 7122,
-      "cost": 500
-    },
-    {
-      "name": "Hands Up",
-      "id": 8244,
-      "cost": 499
-    },
-    {
-      "name": "Marvelous Confetti",
-      "id": 7121,
-      "cost": 100
-    },
-    {
-      "name": "Star",
-      "id": 6432,
-      "cost": 99
-    },
-    {
-      "name": "Cheer You Up",
-      "id": 8243,
-      "cost": 9
-    },
-    {
-      "name": "Team Bracelet",
-      "id": 9139,
-      "cost": 2
-    },
-    {
-      "name": "Heart Me",
-      "id": 7934,
-      "cost": 1
-    },
-    {
       "name": "Gimme The Vote",
       "id": 10405,
       "cost": 1
@@ -101,13 +11,13 @@
       "cost": 1
     },
     {
-      "name": "Ice Cream Cone",
-      "id": 5827,
+      "name": "GG",
+      "id": 6064,
       "cost": 1
     },
     {
-      "name": "GG",
-      "id": 6064,
+      "name": "Ice Cream Cone",
+      "id": 5827,
       "cost": 1
     },
     {
@@ -146,9 +56,44 @@
       "cost": 30
     },
     {
+      "name": "Community Celebration",
+      "id": 10875,
+      "cost": 2999
+    },
+    {
+      "name": "DJ Glasses",
+      "id": 11583,
+      "cost": 500
+    },
+    {
+      "name": "Work Hard Play Harder",
+      "id": 11585,
+      "cost": 6000
+    },
+    {
+      "name": "Party On&On",
+      "id": 11586,
+      "cost": 15000
+    },
+    {
+      "name": "Community Crown",
+      "id": 10874,
+      "cost": 99
+    },
+    {
+      "name": "Under Control",
+      "id": 11584,
+      "cost": 1500
+    },
+    {
       "name": "TikTok Universe",
       "id": 9101,
       "cost": 44999
+    },
+    {
+      "name": "Community Fest",
+      "id": 10749,
+      "cost": 1
     },
     {
       "name": "TikTok Universe",
@@ -236,6 +181,11 @@
       "cost": 20000
     },
     {
+      "name": "American Eagle",
+      "id": 7740,
+      "cost": 19999
+    },
+    {
       "name": "Amusement Park",
       "id": 9466,
       "cost": 17000
@@ -281,11 +231,6 @@
       "cost": 15000
     },
     {
-      "name": "Adventure Journey",
-      "id": 10673,
-      "cost": 15000
-    },
-    {
       "name": "Fans Cheering",
       "id": 7303,
       "cost": 14999
@@ -298,6 +243,11 @@
     {
       "name": "Red Lightning",
       "id": 8419,
+      "cost": 12000
+    },
+    {
+      "name": "3rd Anniversary",
+      "id": 10177,
       "cost": 12000
     },
     {
@@ -326,6 +276,11 @@
       "cost": 10000
     },
     {
+      "name": "Phryge in Paris",
+      "id": 12037,
+      "cost": 10000
+    },
+    {
       "name": "Leon and Lili",
       "id": 8916,
       "cost": 9699
@@ -337,12 +292,22 @@
     },
     {
       "name": "Star Throne",
+      "id": 7764,
+      "cost": 7999
+    },
+    {
+      "name": "Star Throne",
       "id": 8420,
       "cost": 7999
     },
     {
       "name": "Sports Car",
       "id": 6089,
+      "cost": 7000
+    },
+    {
+      "name": "2nd Anniversary",
+      "id": 10176,
       "cost": 7000
     },
     {
@@ -368,11 +333,6 @@
     {
       "name": "Future City",
       "id": 10669,
-      "cost": 6000
-    },
-    {
-      "name": "Sam in New City",
-      "id": 10672,
       "cost": 6000
     },
     {
@@ -416,8 +376,23 @@
       "cost": 5000
     },
     {
+      "name": "1st Anniversary",
+      "id": 10175,
+      "cost": 5000
+    },
+    {
       "name": "Spirits Up",
       "id": 10714,
+      "cost": 5000
+    },
+    {
+      "name": "Diamond Gun",
+      "id": 11497,
+      "cost": 5000
+    },
+    {
+      "name": "Wheelchair Basketball",
+      "id": 12022,
       "cost": 5000
     },
     {
@@ -501,6 +476,11 @@
       "cost": 2988
     },
     {
+      "name": "Pop diva",
+      "id": 10082,
+      "cost": 2988
+    },
+    {
       "name": "Concert",
       "id": 7880,
       "cost": 2888
@@ -511,7 +491,7 @@
       "cost": 2599
     },
     {
-      "name": "Whale diving",
+      "name": "Whale Diving",
       "id": 6820,
       "cost": 2150
     },
@@ -611,6 +591,16 @@
       "cost": 1500
     },
     {
+      "name": "Future Encounter",
+      "id": 10668,
+      "cost": 1500
+    },
+    {
+      "name": "EWC Trophy",
+      "id": 11109,
+      "cost": 1500
+    },
+    {
       "name": "Moonlight flower",
       "id": 9588,
       "cost": 1400
@@ -638,11 +628,6 @@
     {
       "name": "Mirror Bloom",
       "id": 6200,
-      "cost": 1000
-    },
-    {
-      "name": "Galaxy",
-      "id": 6364,
       "cost": 1000
     },
     {
@@ -676,6 +661,16 @@
       "cost": 1000
     },
     {
+      "name": "Galaxy",
+      "id": 11046,
+      "cost": 1000
+    },
+    {
+      "name": "Para Athletics",
+      "id": 12035,
+      "cost": 1000
+    },
+    {
       "name": "Hot Air Balloon",
       "id": 5976,
       "cost": 999
@@ -704,6 +699,11 @@
       "name": "Claw machine",
       "id": 9550,
       "cost": 800
+    },
+    {
+      "name": "The Van Cat",
+      "id": 11498,
+      "cost": 799
     },
     {
       "name": "Swan",
@@ -761,9 +761,24 @@
       "cost": 500
     },
     {
+      "name": "Racing Rover",
+      "id": 11880,
+      "cost": 500
+    },
+    {
+      "name": "Couch Potato",
+      "id": 12160,
+      "cost": 500
+    },
+    {
       "name": "Coral",
       "id": 5731,
       "cost": 499
+    },
+    {
+      "name": "Blind Football",
+      "id": 12101,
+      "cost": 400
     },
     {
       "name": "Singing Mic",
@@ -801,6 +816,16 @@
       "cost": 399
     },
     {
+      "name": "Relaxed Goose",
+      "id": 11178,
+      "cost": 399
+    },
+    {
+      "name": "Tom's Hug",
+      "id": 11181,
+      "cost": 399
+    },
+    {
       "name": "Boxing Gloves",
       "id": 6007,
       "cost": 299
@@ -813,11 +838,6 @@
     {
       "name": "Corgi",
       "id": 6267,
-      "cost": 299
-    },
-    {
-      "name": "Dash",
-      "id": 6757,
       "cost": 299
     },
     {
@@ -851,11 +871,6 @@
       "cost": 299
     },
     {
-      "name": "FrankTastic",
-      "id": 10092,
-      "cost": 299
-    },
-    {
       "name": "Gorilla Cap",
       "id": 10542,
       "cost": 299
@@ -863,6 +878,16 @@
     {
       "name": "Dancing Flower",
       "id": 10574,
+      "cost": 299
+    },
+    {
+      "name": "Naughty Chicken",
+      "id": 11179,
+      "cost": 299
+    },
+    {
+      "name": "Play for You",
+      "id": 11183,
       "cost": 299
     },
     {
@@ -931,6 +956,16 @@
       "cost": 199
     },
     {
+      "name": "Coffee Magic",
+      "id": 11177,
+      "cost": 199
+    },
+    {
+      "name": "Lucky Spray",
+      "id": 11184,
+      "cost": 199
+    },
+    {
       "name": "Socks and Sandals",
       "id": 6618,
       "cost": 150
@@ -938,6 +973,11 @@
     {
       "name": "Confetti",
       "id": 5585,
+      "cost": 100
+    },
+    {
+      "name": "Hand Hearts",
+      "id": 5660,
       "cost": 100
     },
     {
@@ -1011,6 +1051,11 @@
       "cost": 99
     },
     {
+      "name": "Love Painting",
+      "id": 11180,
+      "cost": 99
+    },
+    {
       "name": "Family",
       "id": 9575,
       "cost": 90
@@ -1036,6 +1081,21 @@
       "cost": 49
     },
     {
+      "name": "Phryge in Love",
+      "id": 12031,
+      "cost": 20
+    },
+    {
+      "name": "Phryge Party",
+      "id": 12032,
+      "cost": 20
+    },
+    {
+      "name": "Phryge Music",
+      "id": 12106,
+      "cost": 20
+    },
+    {
       "name": "Tiny Diny",
       "id": 7553,
       "cost": 10
@@ -1056,6 +1116,16 @@
       "cost": 10
     },
     {
+      "name": "EWC",
+      "id": 11108,
+      "cost": 10
+    },
+    {
+      "name": "Winning Wednesdays",
+      "id": 11553,
+      "cost": 10
+    },
+    {
       "name": "Applause",
       "id": 9622,
       "cost": 9
@@ -1066,18 +1136,13 @@
       "cost": 5
     },
     {
-      "name": "Wide Eye Wurstie",
-      "id": 10093,
+      "name": "Smart",
+      "id": 10480,
       "cost": 5
     },
     {
-      "name": "Star Throne",
-      "id": 7764,
-      "cost": 7999
-    },
-    {
-      "name": "Smart",
-      "id": 10480,
+      "name": "Tofu",
+      "id": 10604,
       "cost": 5
     },
     {
@@ -1086,34 +1151,29 @@
       "cost": 5
     },
     {
-      "name": "1st Anniversary",
-      "id": 10175,
-      "cost": 5000
+      "name": "Aura Point",
+      "id": 11169,
+      "cost": 5
     },
     {
-      "name": "2nd Anniversary",
-      "id": 10176,
-      "cost": 7000
+      "name": "Magic Stage",
+      "id": 7870,
+      "cost": 2599
+    },
+    {
+      "name": "Enchanted Guitar",
+      "id": 11806,
+      "cost": 999
+    },
+    {
+      "name": "Gold Microphone",
+      "id": 8750,
+      "cost": 499
     },
     {
       "name": "Thumbs Up",
       "id": 6246,
       "cost": 1
-    },
-    {
-      "name": "Heart",
-      "id": 6247,
-      "cost": 1
-    },
-    {
-      "name": "Cake Slice",
-      "id": 6784,
-      "cost": 1
-    },
-    {
-      "name": "Adventure Encounter",
-      "id": 10671,
-      "cost": 1500
     },
     {
       "name": "Love you",
@@ -1124,16 +1184,6 @@
       "name": "Football",
       "id": 7249,
       "cost": 1
-    },
-    {
-      "name": "Future Encounter",
-      "id": 10668,
-      "cost": 1500
-    },
-    {
-      "name": "3rd Anniversary",
-      "id": 10177,
-      "cost": 12000
     },
     {
       "name": "Rainbow",
@@ -1151,19 +1201,149 @@
       "cost": 1
     },
     {
+      "name": "Animal Band",
+      "id": 11811,
+      "cost": 2500
+    },
+    {
+      "name": "Arnold the Warrior",
+      "id": 11567,
+      "cost": 42999
+    },
+    {
+      "name": "Solar Temple",
+      "id": 11566,
+      "cost": 25999
+    },
+    {
+      "name": "Heart",
+      "id": 6247,
+      "cost": 1
+    },
+    {
+      "name": "Your Concert",
+      "id": 11810,
+      "cost": 4500
+    },
+    {
+      "name": "Beating Heart",
+      "id": 11809,
+      "cost": 449
+    },
+    {
+      "name": "Rock Star",
+      "id": 11808,
+      "cost": 299
+    },
+    {
+      "name": "Cake Slice",
+      "id": 6784,
+      "cost": 1
+    },
+    {
+      "name": "Holy Arc",
+      "id": 11565,
+      "cost": 14999
+    },
+    {
       "name": "Heart Puff",
       "id": 10448,
       "cost": 1
     },
     {
-      "name": "Roaring Tiger",
-      "id": 10797,
-      "cost": 23999
+      "name": "Phryge Jump",
+      "id": 12100,
+      "cost": 1
     },
     {
-      "name": "Tofu",
-      "id": 10604,
-      "cost": 5
+      "name": "Pegasus",
+      "id": 9427,
+      "cost": 42999
+    },
+    {
+      "name": "Fire Phoenix",
+      "id": 9092,
+      "cost": 41999
+    },
+    {
+      "name": "Thunder Falcon",
+      "id": 8651,
+      "cost": 39999
+    },
+    {
+      "name": "TikTok Universe+",
+      "id": 7312,
+      "cost": 34999
+    },
+    {
+      "name": "Premium Shuttle",
+      "id": 7125,
+      "cost": 20000
+    },
+    {
+      "name": "Fly Love",
+      "id": 8248,
+      "cost": 19999
+    },
+    {
+      "name": "Happy Party",
+      "id": 8247,
+      "cost": 6999
+    },
+    {
+      "name": "Signature Jet",
+      "id": 7124,
+      "cost": 4888
+    },
+    {
+      "name": "Here We Go",
+      "id": 8245,
+      "cost": 1799
+    },
+    {
+      "name": "Shiny air balloon",
+      "id": 7123,
+      "cost": 1000
+    },
+    {
+      "name": "Trending Figure",
+      "id": 9138,
+      "cost": 999
+    },
+    {
+      "name": "Gem Gun",
+      "id": 7122,
+      "cost": 500
+    },
+    {
+      "name": "Hands Up",
+      "id": 8244,
+      "cost": 499
+    },
+    {
+      "name": "Marvelous Confetti",
+      "id": 7121,
+      "cost": 100
+    },
+    {
+      "name": "Star",
+      "id": 6432,
+      "cost": 99
+    },
+    {
+      "name": "Cheer You Up",
+      "id": 8243,
+      "cost": 9
+    },
+    {
+      "name": "Team Bracelet",
+      "id": 9139,
+      "cost": 2
+    },
+    {
+      "name": "Heart Me",
+      "id": 7934,
+      "cost": 1
     }
   ]
 }

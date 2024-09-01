@@ -80,22 +80,26 @@ function onTikTokEvent(e){
                 players.push(player);
             }
         }
+        console.log(ev.giftId)
         if(typeof winnerName !== 'undefined'){
             if(winnerName == ev.uniqueId){
                 if(ev.giftId===5655){//bullets
-                    //his must be fixed
-                    if(winner.bullets<=3){
+                    if(winner.bullets<5){
                         winner.bullets+=1;
+                    }else{
+                        winner.playerhealth+=1;
                     }
+                }else if(ev.giftId===5269){//damage
+                    winner.bulletDamge+=1;
+                }else if(ev.giftId===5827){//hp
+                    winner.playerhealth+=1;
                 }
             }
-        }else if(ev.giftId===5269){//damage
-            winner.bulletDamge+=1;
         }
      
     }else if(type == 'chat'){
-        //console.log(ev.comment); show comments i console log (not recommended)
-        //u can use this for testing, type any number in the chat an it will create a player with a number i typed
+        //console.log(ev.comment);// show comments (not recommended)
+        //u can use this for testing, inter a number in the chat it will create a player
         if(Number.isInteger(parseInt((ev.comment))))
         {
             let img = new Image();
@@ -128,9 +132,5 @@ function onTikTokEvent(e){
         players.push(player)
     }
 } 
-
-
-
-
 
 main()
